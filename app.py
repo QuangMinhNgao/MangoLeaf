@@ -104,7 +104,7 @@ st.markdown("""
     }
 
     body {
-        background-color: #f8fbf8;
+        background-color: #1e1e1e;
     }
 
     /* Main container styling */
